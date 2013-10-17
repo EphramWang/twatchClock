@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8"?>
 <plugin-features>
-	<description name="com.example.twatchclock"/>
-	<intent action="android.intent.action.MAIN" key="main">时钟</intent>
+	<description name="com.example.twatchclock.words.des"/>
+	<intent action="com.example.twatchclock.words" key="main">WordsClock</intent>
 </plugin-features>
